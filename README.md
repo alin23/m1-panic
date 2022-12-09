@@ -27,6 +27,8 @@ Done in 69ms.
 
 **Press <kbd>ctrl</kbd> <kbd>c</kbd>. This should trigger the CPU panic and freeze your Mac device.**
 
+---
+
 #### What I'm experiencing on my M1 MacBook Pro 2020 and M1 Max MacBook Pro 2021:
 
 * System freeze (can't move the mouse, trackpad doesn't click, keyboard does nothing)
